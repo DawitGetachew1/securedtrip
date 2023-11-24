@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "542682856057",
+    "project_id": "strongsecurity-a9082",
+    "storage_bucket": "strongsecurity-a9082.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542682856057:android:6f033d4397f89f789372a8",
+        "android_client_info": {
+          "package_name": "com.example.strong_security"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542682856057-10i2s8m1madmmsqlpgoiql9lf4f78oeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFRigJa5Hepeg6hx67nPcnRTg5y_IBSH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542682856057-10i2s8m1madmmsqlpgoiql9lf4f78oeu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
